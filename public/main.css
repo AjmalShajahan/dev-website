@@ -167,6 +167,7 @@ codersrank-activity {
     justify-content: flex-end;
     padding-top: 100px;
     margin-top: -100px;
+    overflow: hidden;
 }
 
 codersrank-skills-chart {
@@ -175,6 +176,7 @@ codersrank-skills-chart {
     --chart-border-radius: 8px;
     --axis-bg-color: transparent;
     --label-font-size: 12px;
+    overflow: hidden;
 }
 
 codersrank-timeline {
@@ -183,6 +185,7 @@ codersrank-timeline {
     --tooltip-bg-color: #161616;
     --tooltip-text-color: rgb(255, 255, 255);
     --tag-text-color: var(--theme-color);
+    overflow: hidden;
 }
 
 codersrank-portfolio, codersrank-work-experience, codersrank-education {
